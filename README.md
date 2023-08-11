@@ -2,6 +2,8 @@
 Working with replication data from Bueno de Mesquita and Smith 2022
 Main aim is to recreate their measure of minimal winning coalition, W, which they created using V-Dem 11 data with the current version V-Dem.
 
+This work is done in R and specifically in R Studio using R Markdown Notebooks.
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
