@@ -4,6 +4,8 @@ Main aim is to recreate their measure of minimal winning coalition, W, which the
 
 This work is done in R and specifically in R Studio using R Markdown Notebooks.
 
+Redoing this now with version 15, using the package from https://github.com/vdeminstitute/vdemdata
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
